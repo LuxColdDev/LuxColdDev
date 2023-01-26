@@ -28,6 +28,10 @@ How to Reach Me! :)
 	<a href="https://www.javascript.com/" target="_blank"> 
   		<code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
 	</a> 
+    </a> 
+	<a href="https://www.java.com/en/" target="_blank"> 
+  		<code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></code>
+	</a> 
 	<a href="https://nodejs.org" target="_blank"> 
   		<code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
 	</a>
