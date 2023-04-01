@@ -50,7 +50,6 @@ How to Reach Me! :)
 	<a href="https://www.mysql.com/">
 		<code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Redis" width="40" height="40"/></code>
 	</a>
-	</a>
 	<a href="https://www.linux.org/">
 		<code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Redis" width="40" height="40"/></code>
 	</a>
