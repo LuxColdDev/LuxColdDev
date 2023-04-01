@@ -1,5 +1,6 @@
 ## Hi I'm Lux <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+<p align="left"> <a href="https://twitter.com/sLuxCode" target="blank"><img src="https://img.shields.io/twitter/follow/sLuxCode?logo=twitter&style=for-the-badge" alt="sLuxCode" /></a> </p>
 I'm Lux, student in cybersecurity and apprentice in the programming world. I just enjoy coding fun things. Feel free to check out some of my repositories or leave any questions. I am new to Github, so any advice would be great!
 
 How to Reach Me! :)
@@ -9,9 +10,8 @@ How to Reach Me! :)
 	<img align="right" alt="LuxColdDev's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=LuxColdDev&show_icons=true&include_all_commits=true&theme=react">
 </p>
 
-- 🤖 In development!
+- 🤖 I’m currently learning **Java, Python and HTML**
 - 🔫 I like to play video games like CSGO and Minecraft. 
-- 📫 How to reach me: sluxofficial6@gmail.com.
 - 🎵 I love to listening to music. 
 
 <h3>✏ Languages and Tools</h3>
@@ -47,13 +47,42 @@ How to Reach Me! :)
 	<a href="https://www.mongodb.com/">
 		<code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></code>
 	</a>
+	<a href="https://www.redis.io/">
+		<code><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></code>
+	</a>
+	<a href="https://www.mysql.com/">
+		<code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Redis" width="40" height="40"/></code>
+	</a>
+	</a>
+	<a href="https://www.linux.org/">
+		<code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Redis" width="40" height="40"/></code>
+	</a>
+	<a href="https://www.git-scm.com/">
+		<code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original" alt="Redis" width="40" height="40"/></code>
+	</a>
 </p>
 
----
+<h2 align="left">My stats</h3>
 
-<div align="center">
-	</a>
-	<a href="https://www.instagram.com/xluxcode/" target="_blank">
-		<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-	</a>  
-</div>  
+<p align="center">
+    <a href="https://discord.com/users/1038104067085447248" target="_blank" rel="nofollow">
+    </a>
+</p>
+
+<!-- <div> -->
+<p align="center">
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuxColdDev&show_icons=true&theme=radical&count_private=true&locale=en" alt="LuxColdDev" />
+</a>
+</p>
+
+<p align="center">
+<a>
+<img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuxColdDev&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="LuxColdDev" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuxColdDev&show_icons=true&theme=radical&locale=en" alt="LuxColdDev" />
+</p>
+
