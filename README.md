@@ -6,9 +6,6 @@ I'm Lux, student in cybersecurity and apprentice in the programming world. I jus
 How to Reach Me! :)
 
 <h3>💻 Quick Facts</h3>
-<p>
-	<img align="right" alt="LuxColdDev's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=LuxColdDev&show_icons=true&include_all_commits=true&theme=react">
-</p>
 
 - 🤖 I’m currently learning **Java, Python and HTML**
 - 🔫 I like to play video games like CSGO and Minecraft. 
