@@ -54,7 +54,7 @@ How to Reach Me! :)
 		<code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Redis" width="40" height="40"/></code>
 	</a>
 	<a href="https://www.git-scm.com/">
-		<code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original" alt="Redis" width="40" height="40"/></code>
+		<code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Redis" width="40" height="40"/></code>
 	</a>
 </p>
 
